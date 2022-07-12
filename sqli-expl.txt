@@ -1,0 +1,29 @@
+select
+update
+delete
+drop
+insert
+union
+load_file
+UDF
+connector
+mysql
+sqlite
+redis
+cassandra
+SQL Server
+mongodb
+motor
+mssql
+elastic
+FUNCTION
+ LANGUAGE 
+plpython3u
+connect\(
+mysqli_connect\(
+mysqli_query\(
+mysqli\(
+PDO\(
+query\(
+exec\(
+\$sql
