@@ -1,2 +1,3 @@
 # whitebox-wordlists
-Wordlists for whitebox pentesting
+Generated here because my cheats got poluted.
+
