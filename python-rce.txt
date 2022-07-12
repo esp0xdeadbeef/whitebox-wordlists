@@ -1,0 +1,5 @@
+os.system
+os.popen
+pickle.dumps
+subprocess.call
+pty.spawn
