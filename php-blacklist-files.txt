@@ -1,0 +1,8 @@
+\.js$
+\.html$
+\.md$
+\.lock$
+\.json$
+\.log$
+vendor
+\/\.git
