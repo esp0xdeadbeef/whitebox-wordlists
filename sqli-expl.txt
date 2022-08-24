@@ -27,3 +27,7 @@ PDO(
 query(
 exec(
 $sql
+pg_query(
+$query
+ FROM 
+ queryDB(
