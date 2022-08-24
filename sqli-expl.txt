@@ -31,3 +31,5 @@ pg_query(
 $query
  FROM 
  queryDB(
+pg_prepare(
+pg_execute(
