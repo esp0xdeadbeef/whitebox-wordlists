@@ -1,0 +1,6 @@
+doGet
+doPost
+doPut
+doDelete
+doCopy
+doOptions
